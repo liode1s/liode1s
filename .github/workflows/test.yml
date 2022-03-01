@@ -4,7 +4,7 @@ on:
   # Run workflow automatically
   schedule:
     # Runs every hour, on the hour
-    - cron: "*/5 * * * *"
+    - cron: "*/2 * * * *"
 
 jobs:
   update-readme-with-blog:
@@ -15,4 +15,4 @@ jobs:
       - uses: gautamkrishnar/blog-post-workflow@master
         with:
           # comma-separated list of RSS feed urls
-          feed_list: "https://lucifer.ren/blog/atom.xml"
+          feed_list: "https://lioders.com/atom.xml"
