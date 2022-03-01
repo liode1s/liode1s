@@ -31,3 +31,5 @@
 
 <!-- START_SECTION:blog -->
 <!-- END_SECTION:blog -->
+
+[![Update events](https://github.com/liode1s/liode1s/actions/workflows/social-readme.yml/badge.svg)](https://github.com/liode1s/liode1s/actions/workflows/social-readme.yml)
