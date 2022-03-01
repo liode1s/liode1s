@@ -11,7 +11,7 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - name: Social Readme
-        uses: liode1s/social-readme@master
+        uses: zylele/social-readme@master
         with:
           blog_rss_link: https://lioders.com/atom.xml
           blog_limit: 10
