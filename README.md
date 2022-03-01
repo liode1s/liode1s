@@ -12,7 +12,7 @@
 ## 😯关于我
 
 - 🔭 I’m currently working on China
-- 🌱 I’m currently using `GoLang` `Python` <del>`java`</del> . 
+- 🌱 I’m currently using `GoLang` `Python` `node` <del>`java`</del> . 
 - 🌱 I’m currently learning pwn、Reverse
 - ✈️ Open to Remote Job Opportunities 🍻
 
