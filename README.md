@@ -26,8 +26,8 @@
 
 ### 📝<a href="https://lioders.com/" target="_blank">Lioders Blog</a>
 
-<!-- START_SECTION:blog -->
-
-<!-- END_SECTION:blog -->
 </tbody>
 </table>
+
+<!-- START_SECTION:blog -->
+<!-- END_SECTION:blog -->
