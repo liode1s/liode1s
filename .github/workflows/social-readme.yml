@@ -4,7 +4,7 @@ on:
   watch:
     types: started
   schedule:
-    - cron:  '41 13 * * *'
+    - cron:  '45 13 * * *'
 
 jobs:
   update-social:
