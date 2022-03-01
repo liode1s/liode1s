@@ -10,8 +10,8 @@
 ![github contribution grid snake animation](https://raw.githubusercontent.com/liode1s/liode1s/output/github-contribution-grid-snake.svg)
 
 
-- 🔭 I’m currently working at [PDD](https://www.pinduoduo.com/)
 - 🔭 I’m currently working on China
+- 🌱 I’m currently using `GoLang` `Python` <del>`java`</del> . 
 - 🌱 I’m currently learning pwn、Reverse
 - ✈️ Open to Remote Job Opportunities 🍻
 
