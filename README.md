@@ -30,12 +30,5 @@
 </tbody>
 </table>
 
-<!-- BLOG-POST-LIST:START -->
-- [electron去除敏感cli flag](https://lioders.com/posts/electron%E5%85%B3%E9%97%AD%E9%BB%98%E8%AE%A4%E8%B0%83%E8%AF%95cli/)
-- [CTF题目-空投的秘密](https://lioders.com/posts/ctf%E9%A2%98%E7%9B%AE-%E7%A9%BA%E6%8A%95%E7%9A%84%E7%A7%98%E5%AF%86/)
-- [CTF线上赛](https://lioders.com/posts/7%E6%9C%88%E7%9A%84%E4%B8%80%E6%AC%A1ctf/)
-- [浅谈一下我眼中的SSDLC建设（持续更新）](https://lioders.com/posts/sdl%E5%BB%BA%E8%AE%BE/)
-- [二维码劫持案例](https://lioders.com/posts/%E4%BA%8C%E7%BB%B4%E7%A0%81%E5%8A%AB%E6%8C%81%E6%A1%88%E4%BE%8B/)
-<!-- BLOG-POST-LIST:END -->
 
 [![Update events](https://github.com/liode1s/liode1s/actions/workflows/social-readme.yml/badge.svg)](https://github.com/liode1s/liode1s/actions/workflows/social-readme.yml)
