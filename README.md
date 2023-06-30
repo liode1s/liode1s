@@ -17,18 +17,4 @@
 - ✈️ Open to Remote Job Opportunities 🍻
 
 
-
-## 📺Social
-
-<table>
-<tbody>
-   <tr>
-       <td  valign="top" width="100%">
-
-### 📝<a href="https://lioders.com/" target="_blank">Lioders Blog</a>
-
-</tbody>
-</table>
-
-
 [![Update events](https://github.com/liode1s/liode1s/actions/workflows/social-readme.yml/badge.svg)](https://github.com/liode1s/liode1s/actions/workflows/social-readme.yml)
