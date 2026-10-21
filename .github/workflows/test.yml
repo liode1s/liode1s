@@ -1,10 +1,9 @@
 name: Blog Posts
 
 on:
-  # Run workflow automatically
-  schedule:
-    # Runs every hour, on the hour
-    - cron: "*/5 * * * *"
+  # The lioders.com blog is retired; automatic updates are disabled.
+  # Restore a valid feed and README blog markers before running manually.
+  workflow_dispatch:
 
 jobs:
   update-readme-with-blog:
